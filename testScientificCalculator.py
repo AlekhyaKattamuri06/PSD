@@ -1,6 +1,6 @@
 import unittest
 import math
-from scientific_calculator import sin, cos, tan, sqrt, log, exp
+from scientificCalculator import sin, cos, tan, sqrt, log, exp
 
 class TestScientificCalculator(unittest.TestCase):
    
